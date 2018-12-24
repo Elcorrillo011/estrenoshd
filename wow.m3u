@@ -1,0 +1,68 @@
+#EXTM3U
+#EXTINF:0,DISNEY XD INFANTIL
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:0,DISNEY CHANNEL ESPAÑOL
+http://194.88.107.101:6204/live/jian/jian/9999.ts.m3u8
+#EXTINF:0,PEQUE TV INFANTIL
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:0,CACHIPUM TV INFANTIL
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:0,CIUDAD MAGAZINE EN VIVO
+https://g2.proy-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF:0,AMERICA TV BS AS
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0,SPACE
+http://54.39.146.230/LIVE/H02/SPACE/playlist.m3u8
+#EXTINF:0,CINECANAL
+http://54.39.146.230/LIVE/H02/CINECANALHD/playlist.m3u8
+#EXTINF:0,BOING INFANTIL
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0,HISTORY ESPAÑOL
+http://194.88.107.101:6204/live/jian/jian/9989.ts.m3u8
+#EXTINF:0,TV AZTECA UNO
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,FOX
+http://158.69.199.207/LIVE/H02/FOX/playlist.m3u8
+#EXTINF:0,CANAL 10 RIO NEGRO
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0,CANAL 10 MAR DEL PLATA
+https://58ee6ee476b11.streamlock.net/transcode/ngrp:canal10_all/chunklist_w228841622_b264000.m3u8
+#EXTINF:0,CANAL 26 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,POWER TV
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,TV PUBLICA
+https://chunks01.tvpublica.com.ar/video/BJQRNMF6b_720/index.m3u8
+#EXTINF:0,CANAL 13 CORRIENTES
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w1762273043.m3u8
+#EXTINF:0,TL NOVELAS
+https://petu14.pedromo.me/live/tlnovelas/index.m3u8?token=qvD8xDcxd7CTKOWG9kVPdQ&expires=1540511806
+#EXTINF:0,PORTAL FOX MIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0,LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
+#EXTINF:0,FASHION TV
+#EXTGRP:unsorted
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:0,MUSICA TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/.m3u8
+#EXTINF:0,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,HIT TV TV MUSICA
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:0,DJING TV MUSICA DANCE
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,TYC SPORTS
+https://petopa154.caraponi.me/live/tycsports/index.m3u8?token=A1ooT1P-0P2TKLbMFCLJkg&expires=1539876028
+#EXTINF:0,TNT
+https://petu12.pedromo.me/live/tntlatino/index.m3u8?token=tPZE1pzs17aAroBt8t8r1Q&expires=1540511851
+#EXTINF:0,TELERED
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0,TELE UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0,ATB BOLIVIA
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+#EXTINF:0,CHILE VISION
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
